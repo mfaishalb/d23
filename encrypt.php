@@ -52,7 +52,7 @@ $stmt->execute();
     </div>
   </div>
   <nav class="nav-links">
-    <a href="index.html">Enkripsi</a>
+    <a href="index.php">Enkripsi</a>
     <a href="decrypt_all.php">Dekripsi</a>
     <a href="generate_form.php">Kunci</a>
   </nav>
