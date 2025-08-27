@@ -50,7 +50,7 @@ echo "✅ RSA Key Pair berhasil dibuat dan disimpan di folder rsa_keys/";
     </div>
   </div>
   <nav class="nav-links">
-    <a href="index.php">Enkripsi</a>
+    <a href="index.html">Enkripsi</a>
     <a href="decrypt_all.php">Dekripsi</a>
     <a href="generate_form.php">Kunci</a>
   </nav>
@@ -66,7 +66,7 @@ echo "✅ RSA Key Pair berhasil dibuat dan disimpan di folder rsa_keys/";
     ?>
     <div class="action-bar" style="margin-top:12px;">
       <a class="btn" href="generate_form.php">← Kembali</a>
-      <a class="btn" href="index.php">Ke Enkripsi</a>
+      <a class="btn" href="index.html">Ke Enkripsi</a>
     </div>
   </div>
 </div>
